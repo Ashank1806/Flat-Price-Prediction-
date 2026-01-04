@@ -13,8 +13,6 @@ This project covers the complete ML pipeline—from **web scraping and data prep
   - **Houses dataset**
 - Location: **Gurgaon, India**
 
-- -
-
 ## 🧹 Data Cleaning
 Each dataset was cleaned separately using the following steps:
 
@@ -65,8 +63,9 @@ EDA was performed to understand the data distribution and relationships:
 
 ### 🏆 Best Performing Model
 - **Random Forest Regressor**
-- Achieved high prediction accuracy
+- Achieved high prediction accuracy 90.05% with 45L MSE
 - Selected as the final model
+
 
 ---
 
